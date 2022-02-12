@@ -20,5 +20,5 @@ I'm **Alican**, I've been studying on Math at Izmir University of Economics. I'm
 </a>
 </p>
   
-##### Don't forget to take a look at my Data Science portfolio on <a href="https://alicanakca.com">my website!</a>
+##### Don't forget to take a look at my Data Science portfolio on <a href="https://alicanakca.space">my website!</a>
 ##### You can reach me via my e-mail: __alicanakca_eternal@hotmail.com__
