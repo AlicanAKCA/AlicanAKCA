@@ -12,9 +12,9 @@ I'm **Alican**, I've been studying on Math at Izmir University of Economics. I'm
 <p>
  <a href="https://www.twitter.com/alicanakca_"><img height="30" src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/twitter-icon-18-256.png"></a>
 <a href="https://www.instagram.com/alicanakca_"><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1865894-1581910.png">
-<a href="https://www.linkedin.com/in/alicanakca/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+
 <a href="https://www.alicanakca.medium.com"><img height="30" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw"></a>
-<a href="https://dev.to/alicanakca"><img height="30" src="https://raw.githubusercontent.com/stephenajulu/WaylonWalker/main/icon/dev.png"></a>
+
 <a href="https://hashnode.com/@alican_eth"><img height="30" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"></a>
 <a href="https://www.kaggle.com/alican.eth"><img height="30" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/kaggle-logo.png">
 </a>
