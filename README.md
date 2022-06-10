@@ -1,5 +1,5 @@
 
-## <img src="https://media1.giphy.com/media/D0JEqwGIb0bu90HCIB/giphy.gif?cid=ecf05e47rwi1j8t4glcoz0khwft0xqv4nulisxwhaymz0ian&rid=giphy.gif&ct=s" width="25px"> Hi!  
+## Hi!  
 I'm **Alican**, I've been studying on Math at Izmir University of Economics. I'm interested in Computer Vision and Data Science. <br>
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/tZncbjethtpx4gBzZN/giphy.gif?cid=790b76112c809f64bea9b1ff4e8025ad754b8158d9ac64c0&rid=giphy.gif&ct=g" width="150" height="150"/>
